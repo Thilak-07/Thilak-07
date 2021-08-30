@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://instagram.com/_thilakkumar_?utm_medium=copy_link">
+<!--<a href="https://instagram.com/_thilakkumar_?utm_medium=copy_link">
   <img align="left" alt="Thilak | Instagram" width="44px" src="assets/instagram.svg" />
-</a>
+</a>-->
 <a href="https://twitter.com/Thilakkumar_V?s=09">
   <img align="left" alt="Thilak | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
@@ -12,7 +12,7 @@
   <img align="left" alt="Thilak | Spotify" width="22px" src="assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Thilak-07)
 
 <br />
 
