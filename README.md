@@ -3,13 +3,13 @@
   <img align="left" alt="Thilak | Instagram" width="44px" src="assets/instagram.svg" />
 </a>
 <a href="https://twitter.com/Thilakkumar_V?s=09">
-  <img align="left" alt="Thilak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Thilak | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thilak-kumar-65610a200">
-  <img align="left" alt="Thilak | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Thilak | LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/314leay3ltgija5tjl5q6aba5juq?si=yXg7pA5aTZuQH878yIlePQ&utm_source=copy-link&dl_branch=1">
-  <img align="left" alt="Thilak | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Thilak | Spotify" width="22px" src="spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
