@@ -12,7 +12,7 @@
   <img align="left" alt="Thilak | Spotify" width="22px" src="assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Thilak-07)
+![](https://visitor-badge.glitch.me/badge?page_id=Thilak-07.Thilak-07)
 
 <br />
 
