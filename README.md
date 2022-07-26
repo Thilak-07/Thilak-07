@@ -20,7 +20,7 @@ Hi, I'm [Thilak Kumar](https://thilak-07.github.io/Thilak/), a passionate self-t
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="468.75" height="300" />
+<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="390.625" height="250" />
   
 - 💬 Ask me about anything! Do reach, [email](mailto:vinaythilak002@gmail.com) :)
 
