@@ -19,12 +19,12 @@
 Hi, I'm [Thilak Kumar](https://thilak-07.github.io/Thilak/), a passionate self-taught Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-  
-- 💬 Ask me about anything! Do reach, [email](mailto:vinaythilak002@gmail.com) :)
 
-<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="390.625" height="250" />
+💬 Ask me about anything! Do reach, [email](mailto:vinaythilak002@gmail.com) :)
+
 
 ## Languages
+<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="390.625" height="250" />
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
