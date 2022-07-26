@@ -50,6 +50,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 
 
-## 📈 My GitHub Stats
+## My GitHub Stats 📈 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Thilak-07&show_icons=true&theme=codeSTACKr&count_private=true" alt="Thilak-07" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&layout=compact&show_icons=true&theme=codeSTACKr" />
