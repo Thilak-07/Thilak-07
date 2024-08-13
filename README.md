@@ -1,30 +1,24 @@
-# Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<br><br>
-<p align="left">
-  <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Skils Banner"/>
 </p>
 
+<h1 align="center">Hello Everyone, I'm Thilakkumar 👋</h1>
+<h3 align="center">A passionate developer with expertise in web development, data science, and more!</h3>
 
+<!-- Badges and Contact -->
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThilak-07%2FThilak-07&label=Profile Views&labelColor=%23000&countColor=%230A0209" />
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Twitter" ></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="Instagram" ></a>
+  <a href="#"><img src="https://img.shields.io/badge/Leetcode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" alt="LeetCode" ></a>
+</div>
 
-
-
-<a href="https://twitter.com/Thilakkumar_V?s=09">
-  <img align="left" alt="Thilak | Twitter" width="21px" src="assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/_thilakkumar_?utm_medium=copy_link">
-  <img align="left" alt="Thilak | Instagram" width="21px" src="assets/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/thilak-kumar-65610a200">
-  <img align="left" alt="Thilak | LinkedIN" width="21px" src="assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/314leay3ltgija5tjl5q6aba5juq?si=yXg7pA5aTZuQH878yIlePQ&utm_source=copy-link&dl_branch=1">
-  <img align="left" alt="Thilak | Spotify" width="21px" src="assets/spotify.svg" />
-</a>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Thilak-07&left_color=grey&right_color=blue)
-
+<!-- About Me -->
+## About Me
 
 Hi, I'm [Thilak Kumar](https://thilak-07.github.io/Thilak/), a passionate self-taught Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -32,32 +26,26 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 💬 Ask me about anything! Do reach, [email](mailto:vinaythilak002@gmail.com) :)
 
-## Languages
-<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="390.625" height="250" />
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-</p>
 
-### Find Me On
-<p>
-<a href="mailto:vinaythilak002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://twitter.com/Thilakkumar_V?s=09"><img src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://instagram.com/_thilakkumar_?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/thilak-kumar-65610a200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://forum.xda-developers.com/m/thilak_07.12228297/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
-<a href="https://www.facebook.com/thilakkumar.thilakkumar.961"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<!-- Skills -->
+## Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,anaconda,opencv,c,cpp,html,css,js,react,redux,next,nodejs,express,mysql,mongodb,bootstrap,tailwind,postman,docker,git,bash,androidstudio,github,vscode,notion,linux,windows,ae,ai,ps,pr,blender,aws,gcp" alt="Skills Icons"/>
+</a>
 </p>
 
 
-## My GitHub Stats 📈 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Thilak-07&show_icons=true&theme=codeSTACKr&count_private=true" alt="Thilak-07" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&layout=compact&show_icons=true&theme=codeSTACKr" />
+<!-- GitHub Stats -->
+## GitHub Stats
+
+| ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilak-07\&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07\&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
+|---|---|
+
+<!-- Footer with Animation -->
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<!-- <p align="center">
+  <i>“Your favorite quote here.”</i>
+</p> -->
