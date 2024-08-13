@@ -11,22 +11,24 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThilak-07%2FThilak-07&label=Profile Views&labelColor=%230A0209&countColor=%230A0209" />
   <br>
-  <a href="https://www.linkedin.com/in/thilakkumar-v-65610a200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
-  <a href="mailto:vinaythilak002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
-  <a href="https://twitter.com/Thilakkumar_V" target="_blank"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Twitter" ></a>
-  <a href="https://www.instagram.com/_thilakkumar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="Instagram" ></a>
-  <a href="https://leetcode.com/u/Thilak-07/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" alt="LeetCode" ></a>
+  <a href="https://www.linkedin.com/in/thilakkumar-v-65610a200/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
+  <a href="mailto:vinaythilak002@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
+  <a href="https://twitter.com/Thilakkumar_V"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Twitter" ></a>
+  <a href="https://www.instagram.com/_thilakkumar_/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="Instagram" ></a>
+  <a href="https://leetcode.com/u/Thilak-07/"><img src="https://img.shields.io/badge/Leetcode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" alt="LeetCode" ></a>
 </div>
 
 
 <!-- About Me -->
 ## About Me
 
-<h6>I'm <a href="https://thilak-07.github.io/Thilak/" target="_blank">Thilakkumar</a>, a passionate full-stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<p>
+I'm <a href="https://thilak-07.github.io/Thilak/">Thilakkumar</a>, a passionate full-stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <br><br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 <br><br>
-💬 Ask me about anything! Do reach, <a href="mailto:vinaythilak002@gmail.com" target="_blank">email</a> :)</h6>
+💬 Ask me about anything! Do reach, <a href="mailto:vinaythilak002@gmail.com">email</a> :)
+</p>
 
 
 <!-- Skills -->
@@ -47,6 +49,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- Footer with Animation -->
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
+<hr>
 <p align="center">
   <i>“When in doubt, use brute force.”</i>
 </p>
