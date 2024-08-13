@@ -1,4 +1,14 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px">
+# Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br><br>
+<p align="left">
+  <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 <a href="https://twitter.com/Thilakkumar_V?s=09">
   <img align="left" alt="Thilak | Twitter" width="21px" src="assets/twitter.svg" />
@@ -22,7 +32,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 💬 Ask me about anything! Do reach, [email](mailto:vinaythilak002@gmail.com) :)
 
-
 ## Languages
 <img align="right" alt="GIF" src="assets/code.gif?raw=true" width="390.625" height="250" />
 <p>
@@ -38,8 +47,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
-
-## Find Me On
+### Find Me On
 <p>
 <a href="mailto:vinaythilak002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://twitter.com/Thilakkumar_V?s=09"><img src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
