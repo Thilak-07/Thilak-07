@@ -22,7 +22,7 @@
 
 
 <!-- About Me -->
-## About Me
+## 🧑‍💻 About Me
 
 <p>
 I'm <a href="https://thilak-07.github.io/Thilak/">Thilakkumar</a>, a passionate full-stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -34,7 +34,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <!-- Skills -->
-## Skills
+## 🛠️ Skills
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,anaconda,opencv,c,cpp,html,css,js,react,redux,next,nodejs,express,mysql,mongodb,bootstrap,tailwind,postman,docker,git,bash,androidstudio,github,vscode,notion,linux,windows,ae,ai,ps,pr,blender,aws,gcp" alt="Skills Icons"/>
@@ -42,10 +42,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <!-- GitHub Stats -->
-## GitHub Stats
+## 📈 GitHub Stats
 
-| ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilak-07\&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07\&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
-|---|---|
+<!-- | ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilak-07\&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07\&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
+|---|---| -->
+
+<p>
+<img alt="Thilak's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Thilak-07&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" height="192px"/>
+<img alt="Thilak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&langs_count=8&layout=compact&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" height="192px"/>
+<p>
 
 
 <!-- Footer with Animation -->
@@ -53,8 +58,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <hr>
 <div align="center">
-<p>
-  <i>“When in doubt, use brute force.”</i><br>
-  <a style="text-decoration: none;" href="https://thilak-07.github.io/Thilak/">Made with ❤️ by Thilák</a>
-</p>
+  <p>
+    <i>“When in doubt, use brute force.”</i><br>
+  </p>
 </div>
