@@ -42,7 +42,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-| ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilak-07\&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&langs_count=8&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
+| ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Thilak-07&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&langs_count=8&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
 |---|---|
 <!-- <p>
 <img alt="Thilak's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Thilak-07&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" height="192px"/>
