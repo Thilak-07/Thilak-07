@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Skils Banner"/>
 </p>
-
 <h1 align="center">Hello Everyone, I'm Thilakkumar 👋</h1>
-<!-- <h3 align="center">A passionate developer with expertise in web development, data science, and more!</h3> -->
 
 
 <!-- Badges and Contact -->
@@ -44,13 +42,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-<!-- | ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilak-07\&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07\&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
-|---|---| -->
-
-<p>
+| ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilak-07\&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&langs_count=8&rank_icon=percentile&layout=compact&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
+|---|---|
+<!-- <p>
 <img alt="Thilak's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Thilak-07&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" height="192px"/>
 <img alt="Thilak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak-07&langs_count=8&layout=compact&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" height="192px"/>
-<p>
+<p> -->
 
 
 <!-- Footer with Animation -->
