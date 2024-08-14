@@ -5,12 +5,12 @@
 
 <h1 align="center">Hello Everyone, I'm Thilakkumar 👋</h1>
 <!-- <h3 align="center">A passionate developer with expertise in web development, data science, and more!</h3> -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Interested+in+AI+%7C+ML...;NIT+Trichy+Graduate&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1500" alt="Description Typing SVG">
-</p>
+
 
 <!-- Badges and Contact -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Interested+in+AI+%7C+ML...;NIT+Trichy+Graduate&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1500" alt="Description Typing SVG">
+  <br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThilak-07%2FThilak-07&label=Profile Views&labelColor=%230A0209&countColor=%230A0209" />
   <br>
   <a href="https://www.linkedin.com/in/thilakkumar-v-65610a200/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
@@ -55,6 +55,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <div align="center">
 <p>
   <i>“When in doubt, use brute force.”</i><br>
-  <a style="text-decoration: none" href="https://thilak-07.github.io/Thilak/">Made with ❤️ by Thilák</a>
+  <a style="text-decoration: none;" href="https://thilak-07.github.io/Thilak/">Made with ❤️ by Thilák</a>
 </p>
 </div>
